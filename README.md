@@ -1,6 +1,6 @@
 # E-commerce Backend
 
-![Screenshot]()
+![Screenshot](assets/screenshot.png)
 
 ## Description
 
